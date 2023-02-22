@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let animals = ['Camel','Cheetah','Elephant','Gorilla','Koala','Lion','Polar_bear','Tiger','Wolf']
+let animals = ['camel','cheetah','elephant','gorilla','koala','lion','polar_bear','tiger','wolf']
 
 let photoGrid = document.querySelector('.grid')
 
